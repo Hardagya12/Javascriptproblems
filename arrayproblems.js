@@ -212,5 +212,5 @@ function minSumPair(arr) {
 const arr1 = [3, 10, 6, 1, 15];
 console.log(minSumPair(arr));
 
-//20)Move all zeroes to end of an array
+
 
